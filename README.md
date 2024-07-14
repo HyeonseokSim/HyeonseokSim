@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently interested in Data Science, ML and DL.
+- 🔭 I’m currently interested in Data Analytics, ML and DL.
 - 🌱 I’m currently learning Mathematics and Statistics at [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do).
 
 ### My Skillset
