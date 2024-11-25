@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently interested in Data Analytics, Statistical Inference and Interpretation. 
-- 🍄 I’m currently learning Mathematics and Statistics at <a href="https://www.konkuk.ac.kr/konkuk/index.do">Konkuk University</a>.
+- 🍄 I’m currently learning Mathematics and Statistics at <a href="https://www.konkuk.ac.kr/konkuk/index.do">@Konkuk University</a>.
 - 🐘 I’m currently studying Machine Learning and Deep Learning with <a href="https://github.com/BOAZ-bigdata">@BOAZ-bigdata</a>.
 
 ### My Skillset
