@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently interested in Statistics, Machine Learning, and Deep Learning.   
-  (specifically, time-series analysis and audio classification)  
+  (specifically, time-series analysis and causal inference)  
 - 🍄 I’m currently learning Mathematics and Statistics at <a href="https://www.konkuk.ac.kr/konkuk/index.do">@Konkuk University</a>.
 - 🐘 I’m currently studying Machine Learning and Deep Learning with <a href="https://github.com/BOAZ-bigdata">@BOAZ-bigdata</a>.
 
