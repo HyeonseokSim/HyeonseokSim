@@ -1,7 +1,7 @@
 ## Hi there 👋
   
-- 🍄 I’m a Master's student in Statistics at Seoul National University, a member of <a href="https://causal.snu.ac.kr/">Causal Inference Lab</a>.
-- 🌱 I’m currently interested in Causal Inference, Missing Data Analysis, and eXplainable AI.
+- 🍄 I’m a Master's student in Statistics at Seoul National University.
+- 🌱 I’m currently interested in Causal Inference. Recently, I joined the <a href="https://causal.snu.ac.kr/">SNU Causal Inference Lab</a>.
 - 🐘 I studied basic theories of Machine Learning and Deep Learning at <a href="https://github.com/BOAZ-bigdata">@BOAZ-bigdata Club</a>.
 
 ### My Skillset
