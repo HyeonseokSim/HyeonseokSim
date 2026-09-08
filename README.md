@@ -1,10 +1,10 @@
 ## Hi there 👋
   
-- 🍄 I’m a Master's student in Statistics at Seoul National University.
-- 🌱 I’m currently interested in Causal Inference. Recently, I joined the <a href="https://causal.snu.ac.kr/">SNU Causal Inference Lab</a>.
-- 🐘 I studied basic theories of Machine Learning and Deep Learning at <a href="https://github.com/BOAZ-bigdata">@BOAZ-bigdata Club</a>.
+- 🍄 I’m a Master's student in Statistics at Seoul National University. I'm working at the <a href="https://causal.snu.ac.kr/">Causal Inference Lab</a>.
+- 🌱 I’m currently interested in causal inference on time-varying treatment effects and machine learning.
+- 🐘 I studied basic methods of machine learning and deep learning at <a href="https://github.com/BOAZ-bigdata">@BOAZ-bigdata Club</a>.
 
 ### My Skillset
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 
-Here is my [CV](https://drive.google.com/file/d/1--EsdK64QxjmOgyWmbhVs4m16xxZktYs/view?usp=sharing)! Thank you.
+Here is my [CV](https://drive.google.com/file/d/1OhDkjhM33M87iJ62ec7lJD-j_BF7tH_C/view?usp=sharing)! Thank you.
